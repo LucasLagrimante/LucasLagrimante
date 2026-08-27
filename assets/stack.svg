@@ -1,6 +1,6 @@
 <svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Tecnologias favoritas de Lucas</title>
-  <desc id="desc">Base profissional com PHP, PostgreSQL e jQuery; projetos pessoais com React, TypeScript, Supabase, Cloudflare, Gemini e Google Docs.</desc>
+  <desc id="desc">Base profissional com PHP, PostgreSQL e jQuery; projetos pessoais com React, TypeScript, Supabase, Cloudflare e Claude Code.</desc>
   <defs>
     <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0E1013"/>
@@ -72,18 +72,10 @@
       <text x="18" y="73" fill="#8A94A6" font-size="13">workers, KV e edge</text>
     </g>
     <g transform="translate(796 244)">
-      <rect width="170" height="100" rx="12" fill="#171424" stroke="#A78BFA" stroke-opacity="0.9" stroke-width="2"/>
-      <path d="M28 16C30 24 34 28 42 30C34 32 30 36 28 44C26 36 22 32 14 30C22 28 26 24 28 16Z" fill="#A78BFA"/>
-      <text x="49" y="34" fill="#E7EAF0" font-size="18" font-weight="750">Gemini</text>
-      <text x="18" y="73" fill="#8A94A6" font-size="13">IA aplicada ao produto</text>
-    </g>
-    <g transform="translate(983 244)">
-      <rect width="169" height="100" rx="12" fill="#111923" stroke="#4285F4" stroke-opacity="0.9" stroke-width="2"/>
-      <path d="M18 16H37L43 22V43H18V16Z" fill="#4285F4"/>
-      <path d="M37 16V23H43" stroke="#DCE9FF" stroke-width="2"/>
-      <path d="M23 29H38M23 34H38M23 39H34" stroke="#FFFFFF" stroke-width="2"/>
-      <text x="51" y="34" fill="#E7EAF0" font-size="17" font-weight="750">Google Docs</text>
-      <text x="18" y="73" fill="#8A94A6" font-size="13">conteúdo e colaboração</text>
+      <rect width="356" height="100" rx="12" fill="#1E1713" stroke="#D97757" stroke-opacity="0.9" stroke-width="2"/>
+      <path d="M28 16L32 25L42 29L32 33L28 44L24 33L14 29L24 25L28 16Z" fill="#D97757"/>
+      <text x="51" y="34" fill="#E7EAF0" font-size="18" font-weight="750">Claude Code</text>
+      <text x="18" y="73" fill="#8A94A6" font-size="13">agentes, automação e desenvolvimento assistido</text>
     </g>
   </g>
 </svg>

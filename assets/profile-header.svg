@@ -77,8 +77,8 @@
       <text x="117" y="169" fill="#E7EAF0">: [</text>
       <text x="143" y="169" fill="#C3E88D">"Cloudflare"</text>
       <text x="238" y="169" fill="#E7EAF0">, </text>
-      <text x="254" y="169" fill="#C3E88D">"Gemini"</text>
-      <text x="317" y="169" fill="#E7EAF0">],</text>
+      <text x="254" y="169" fill="#C3E88D">"Claude Code"</text>
+      <text x="357" y="169" fill="#E7EAF0">],</text>
 
       <text x="24" y="199" fill="#8A94A6">05</text>
       <text x="73" y="199" fill="#82AAFF">building</text>
