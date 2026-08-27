@@ -43,7 +43,7 @@ Construo software para resolver problemas reais. Gosto de produtos que parecem s
     <td width="32%" align="center" valign="middle">
       <p><strong>FINTECH PESSOAL</strong></p>
       <p>📊<br><sub>CARTEIRA E<br>PATRIMÔNIO</sub></p>
-      <p>✨<br><sub>ANÁLISES COM<br>INTELIGÊNCIA ARTIFICIAL</sub></p>
+      <p>✨<br><sub>ANÁLISES<br>COM IA</sub></p>
       <p>🛡️<br><sub>AUTH E RLS<br>NO SUPABASE</sub></p>
     </td>
   </tr>
