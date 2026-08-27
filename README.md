@@ -6,6 +6,8 @@
   <strong>
     <a href="#projetos-selecionados">Projetos</a>
     &nbsp;·&nbsp;
+    <a href="https://minhagrana.com.br/">MinhaGrana ↗</a>
+    &nbsp;·&nbsp;
     <a href="https://sharenote.lucaslagrimante.workers.dev/">Abrir sharenote ↗</a>
     &nbsp;·&nbsp;
     <a href="https://lucaslagrimante.github.io/">Portfólio ↗</a>
@@ -15,7 +17,7 @@
 </p>
 
 <p align="center">
-  <code>● construindo agora: sharenote</code>
+  <code>● construindo agora: MinhaGrana · sharenote</code>
 </p>
 
 ## `01` — O que me move
@@ -27,7 +29,25 @@ Construo software para resolver problemas reais. Gosto de produtos que parecem s
 - 🔐 Segurança e privacidade desde a primeira decisão
 - 🛠️ Código pragmático, legível e feito para durar
 
-## `02` — Projeto em destaque
+## `02` — Produtos em destaque
+
+<table>
+  <tr>
+    <td width="68%" valign="top">
+      <h3>💰 MinhaGrana</h3>
+      <p><strong>Finanças e investimentos em um só lugar.</strong></p>
+      <p>Uma plataforma completa para acompanhar patrimônio, investimentos, renda passiva, transações e planejamento financeiro — com importação inteligente de documentos e análises apoiadas por IA.</p>
+      <p><code>React 19</code> <code>TypeScript</code> <code>Supabase</code> <code>Gemini</code> <code>Capacitor</code></p>
+      <p><strong><a href="https://minhagrana.com.br/">CONHECER O MINHAGRANA ↗</a></strong> · <a href="https://app.minhagrana.com.br/">ABRIR APP ↗</a></p>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <p><strong>FINTECH PESSOAL</strong></p>
+      <p>📊<br><sub>CARTEIRA E<br>PATRIMÔNIO</sub></p>
+      <p>✨<br><sub>ANÁLISES COM<br>GEMINI</sub></p>
+      <p>🛡️<br><sub>AUTH E RLS<br>NO SUPABASE</sub></p>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -54,13 +74,13 @@ Construo software para resolver problemas reais. Gosto de produtos que parecem s
     <td width="50%" valign="top">
       <h3>🌍 <a href="https://github.com/LucasLagrimante/globaldev-os">globaldev-os</a></h3>
       <p>Career OS <em>local-first</em> e open source para quem busca oportunidades internacionais em tecnologia.</p>
-      <p><code>TypeScript</code> <code>Local-first</code> <code>Open source</code></p>
+      <p><code>React 19</code> <code>TypeScript</code> <code>PGlite</code> <code>Local-first</code></p>
       <p><a href="https://github.com/LucasLagrimante/globaldev-os"><strong>VER CÓDIGO →</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🎮 <a href="https://github.com/LucasLagrimante/lagri-brawl">Lagri Brawl</a></h3>
       <p>Encontre os melhores personagens de Brawl Stars para dominar cada mapa e modo de jogo.</p>
-      <p><code>JavaScript</code> <code>Game data</code> <code>GitHub Pages</code></p>
+      <p><code>React</code> <code>Vite</code> <code>Vitest</code> <code>Game data</code></p>
       <p><a href="https://github.com/LucasLagrimante/lagri-brawl"><strong>VER PROJETO →</strong></a></p>
     </td>
   </tr>
@@ -68,7 +88,7 @@ Construo software para resolver problemas reais. Gosto de produtos que parecem s
     <td width="50%" valign="top">
       <h3>🦸 <a href="https://lucaslagrimante.github.io/marvel-rivals-coach/">Marvel Rivals Coach</a></h3>
       <p>Guias rápidos de coaching para escolher personagens e decidir a próxima luta em Marvel Rivals.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Game strategy</code></p>
+      <p><code>React 19</code> <code>TypeScript</code> <code>Vite</code> <code>Game strategy</code></p>
       <p><a href="https://lucaslagrimante.github.io/marvel-rivals-coach/"><strong>ABRIR APP ↗</strong></a> · <a href="https://github.com/LucasLagrimante/marvel-rivals-coach">CÓDIGO</a></p>
     </td>
     <td width="50%" valign="top">
@@ -82,7 +102,7 @@ Construo software para resolver problemas reais. Gosto de produtos que parecem s
     <td width="50%" valign="top">
       <h3>🧒 <a href="https://github.com/LucasLagrimante/aprendeplay">AprendePlay</a></h3>
       <p>Experiência educativa multilíngue para crianças aprenderem números, letras e cores.</p>
-      <p><code>TypeScript</code> <code>Educação</code> <code>Acessibilidade</code></p>
+      <p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>i18next</code></p>
       <p><a href="https://github.com/LucasLagrimante/aprendeplay"><strong>VER PROJETO →</strong></a></p>
     </td>
     <td width="50%" valign="top">
@@ -96,13 +116,17 @@ Construo software para resolver problemas reais. Gosto de produtos que parecem s
 
 <p align="right"><strong><a href="https://github.com/LucasLagrimante?tab=repositories">VER TODOS OS REPOSITÓRIOS →</a></strong></p>
 
-## `04` — Minha base favorita
+## `04` — Duas frentes, uma stack completa
+
+No trabalho, minha base está em **PHP, PostgreSQL e jQuery**. Nos produtos pessoais, exploro uma stack moderna com **React, TypeScript, Supabase e Cloudflare**, além de IA com **Gemini** e ferramentas do ecossistema Google, como **Google Docs**.
 
 <p align="center">
-  <img src="./assets/stack.svg" alt="PHP, PostgreSQL e jQuery" width="100%">
+  <img src="./assets/stack.svg" alt="Stack profissional e tecnologias usadas nos projetos pessoais" width="100%">
 </p>
 
-Também trabalho com `TypeScript`, `React`, `Laravel`, `Python`, `Cloudflare Workers` e ferramentas de IA para desenvolvimento.
+<p align="center">
+  <code>Laravel</code> · <code>Vite</code> · <code>Python</code> · <code>Capacitor</code> · <code>Web Crypto API</code> · <code>GitHub Actions</code>
+</p>
 
 ---
 

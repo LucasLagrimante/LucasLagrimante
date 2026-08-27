@@ -1,8 +1,8 @@
-<svg width="1200" height="190" viewBox="0 0 1200 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Tecnologias favoritas de Lucas</title>
-  <desc id="desc">PHP, PostgreSQL e jQuery em três cards coloridos.</desc>
+  <desc id="desc">Base profissional com PHP, PostgreSQL e jQuery; projetos pessoais com React, TypeScript, Supabase, Cloudflare, Gemini e Google Docs.</desc>
   <defs>
-    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="190" gradientUnits="userSpaceOnUse">
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0E1013"/>
       <stop offset="1" stop-color="#151A1D"/>
     </linearGradient>
@@ -10,10 +10,12 @@
       <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.28"/>
     </filter>
   </defs>
-  <rect width="1200" height="190" rx="18" fill="url(#panel)"/>
-  <rect x="1" y="1" width="1198" height="188" rx="17" stroke="#2A343B" stroke-width="2"/>
+  <rect width="1200" height="390" rx="18" fill="url(#panel)"/>
+  <rect x="1" y="1" width="1198" height="388" rx="17" stroke="#2A343B" stroke-width="2"/>
 
-  <g transform="translate(48 34)" filter="url(#shadow)">
+  <text x="48" y="29" fill="#6EE7B7" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="2">BASE PROFISSIONAL</text>
+
+  <g transform="translate(48 46)" filter="url(#shadow)">
     <rect width="344" height="122" rx="14" fill="#151820" stroke="#777BB4" stroke-opacity="0.75" stroke-width="2"/>
     <rect x="18" y="19" width="80" height="42" rx="21" fill="#777BB4"/>
     <text x="58" y="47" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="800" font-style="italic">PHP</text>
@@ -21,7 +23,7 @@
     <text x="19" y="108" fill="#8A94A6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Web direta, madura e produtiva</text>
   </g>
 
-  <g transform="translate(428 34)" filter="url(#shadow)">
+  <g transform="translate(428 46)" filter="url(#shadow)">
     <rect width="344" height="122" rx="14" fill="#111A20" stroke="#336791" stroke-opacity="0.9" stroke-width="2"/>
     <circle cx="40" cy="40" r="22" fill="#336791"/>
     <text x="40" y="47" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="22" font-weight="700">P</text>
@@ -30,12 +32,58 @@
     <text x="19" y="108" fill="#8A94A6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Consultas poderosas e previsíveis</text>
   </g>
 
-  <g transform="translate(808 34)" filter="url(#shadow)">
+  <g transform="translate(808 46)" filter="url(#shadow)">
     <rect width="344" height="122" rx="14" fill="#101A21" stroke="#0769AD" stroke-opacity="0.9" stroke-width="2"/>
     <circle cx="40" cy="40" r="22" fill="#0769AD"/>
     <path d="M27 43C34 52 47 53 55 45M31 35C37 41 46 42 52 37M38 29C42 32 47 32 50 30" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
     <text x="74" y="47" fill="#D7ECFA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="750">jQuery</text>
     <text x="19" y="88" fill="#E7EAF0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="650">Interfaces sem excesso</text>
     <text x="19" y="108" fill="#8A94A6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Simples, direto e eficiente</text>
+  </g>
+
+  <path d="M48 194H1152" stroke="#2A343B" stroke-width="2"/>
+  <text x="48" y="225" fill="#6EE7B7" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="2">LABORATÓRIO PESSOAL</text>
+  <text x="1152" y="225" text-anchor="end" fill="#6F7B8C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">produtos, cloud e inteligência artificial</text>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" filter="url(#shadow)">
+    <g transform="translate(48 244)">
+      <rect width="170" height="100" rx="12" fill="#121A22" stroke="#61DAFB" stroke-opacity="0.8" stroke-width="2"/>
+      <circle cx="26" cy="28" r="9" fill="#61DAFB"/>
+      <text x="45" y="34" fill="#E7EAF0" font-size="18" font-weight="750">React</text>
+      <text x="18" y="73" fill="#8A94A6" font-size="13">interfaces e produtos</text>
+    </g>
+    <g transform="translate(235 244)">
+      <rect width="170" height="100" rx="12" fill="#171724" stroke="#3178C6" stroke-opacity="0.85" stroke-width="2"/>
+      <rect x="17" y="19" width="20" height="20" rx="4" fill="#3178C6"/>
+      <text x="27" y="34" text-anchor="middle" fill="#FFFFFF" font-size="10" font-weight="800">TS</text>
+      <text x="45" y="34" fill="#E7EAF0" font-size="18" font-weight="750">TypeScript</text>
+      <text x="18" y="73" fill="#8A94A6" font-size="13">tipagem e confiança</text>
+    </g>
+    <g transform="translate(422 244)">
+      <rect width="170" height="100" rx="12" fill="#101D19" stroke="#3ECF8E" stroke-opacity="0.85" stroke-width="2"/>
+      <path d="M19 39L31 17H38L32 29H42L25 45L29 35H19V39Z" fill="#3ECF8E"/>
+      <text x="49" y="34" fill="#E7EAF0" font-size="18" font-weight="750">Supabase</text>
+      <text x="18" y="73" fill="#8A94A6" font-size="13">dados, auth e edge</text>
+    </g>
+    <g transform="translate(609 244)">
+      <rect width="170" height="100" rx="12" fill="#21170F" stroke="#F38020" stroke-opacity="0.9" stroke-width="2"/>
+      <circle cx="28" cy="29" r="11" fill="#F38020"/>
+      <text x="48" y="34" fill="#E7EAF0" font-size="18" font-weight="750">Cloudflare</text>
+      <text x="18" y="73" fill="#8A94A6" font-size="13">workers, KV e edge</text>
+    </g>
+    <g transform="translate(796 244)">
+      <rect width="170" height="100" rx="12" fill="#171424" stroke="#A78BFA" stroke-opacity="0.9" stroke-width="2"/>
+      <path d="M28 16C30 24 34 28 42 30C34 32 30 36 28 44C26 36 22 32 14 30C22 28 26 24 28 16Z" fill="#A78BFA"/>
+      <text x="49" y="34" fill="#E7EAF0" font-size="18" font-weight="750">Gemini</text>
+      <text x="18" y="73" fill="#8A94A6" font-size="13">IA aplicada ao produto</text>
+    </g>
+    <g transform="translate(983 244)">
+      <rect width="169" height="100" rx="12" fill="#111923" stroke="#4285F4" stroke-opacity="0.9" stroke-width="2"/>
+      <path d="M18 16H37L43 22V43H18V16Z" fill="#4285F4"/>
+      <path d="M37 16V23H43" stroke="#DCE9FF" stroke-width="2"/>
+      <path d="M23 29H38M23 34H38M23 39H34" stroke="#FFFFFF" stroke-width="2"/>
+      <text x="51" y="34" fill="#E7EAF0" font-size="17" font-weight="750">Google Docs</text>
+      <text x="18" y="73" fill="#8A94A6" font-size="13">conteúdo e colaboração</text>
+    </g>
   </g>
 </svg>
