@@ -8,7 +8,7 @@
     &nbsp;·&nbsp;
     <a href="https://minhagrana.com.br/">MinhaGrana ↗</a>
     &nbsp;·&nbsp;
-    <a href="https://sharenote.lucaslagrimante.workers.dev/">Abrir sharenote ↗</a>
+    <a href="https://app.sharenote.com.br/">Abrir sharenote ↗</a>
     &nbsp;·&nbsp;
     <a href="https://lucaslagrimante.github.io/">Portfólio ↗</a>
     &nbsp;·&nbsp;
@@ -56,7 +56,7 @@ Construo software para resolver problemas reais. Gosto de produtos que parecem s
       <p><strong>Markdown compartilhável. Privacidade de verdade.</strong></p>
       <p>Um editor para criar notas e compartilhá-las por links temporários. O conteúdo é criptografado no navegador antes de sair do dispositivo — a chave nunca chega ao servidor.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Cloudflare Workers</code> <code>Web Crypto API</code></p>
-      <p><strong><a href="https://sharenote.lucaslagrimante.workers.dev/">EXPERIMENTAR O SHARENOTE ↗</a></strong></p>
+      <p><strong><a href="https://sharenote.com.br/">CONHECER O SHARENOTE ↗</a></strong> · <a href="https://app.sharenote.com.br/">ABRIR APP ↗</a></p>
     </td>
     <td width="32%" align="center" valign="middle">
       <p><strong>PRIVACY-FIRST</strong></p>
