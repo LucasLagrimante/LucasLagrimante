@@ -118,14 +118,14 @@ Construo software para resolver problemas reais. Gosto de produtos que parecem s
 
 ## `04` — Duas frentes, uma stack completa
 
-No trabalho, minha base está em **PHP, PostgreSQL e jQuery**. Nos produtos pessoais, exploro uma stack moderna com **React, TypeScript, Supabase e Cloudflare**, usando **Claude Code** como parceiro no processo de desenvolvimento.
+No trabalho, minha base está em **PHP, PostgreSQL e jQuery**. Nos produtos pessoais, exploro uma stack moderna com **React, TypeScript, Supabase, Cloudflare e Python**, usando **Claude Code** como parceiro no processo de desenvolvimento.
 
 <p align="center">
   <img src="./assets/stack.svg" alt="Stack profissional e tecnologias usadas nos projetos pessoais" width="100%">
 </p>
 
 <p align="center">
-  <code>Laravel</code> · <code>Vite</code> · <code>Python</code> · <code>Capacitor</code> · <code>Web Crypto API</code> · <code>GitHub Actions</code>
+  <code>Laravel</code> · <code>Vite</code> · <code>Capacitor</code> · <code>Web Crypto API</code> · <code>GitHub Actions</code>
 </p>
 
 ---
