@@ -78,32 +78,18 @@ Construo software para resolver problemas reais. Gosto de produtos que parecem s
       <p><a href="https://github.com/LucasLagrimante/globaldev-os"><strong>VER CÓDIGO →</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/LucasLagrimante/lagri-brawl">Lagri Brawl</a></h3>
-      <p>Encontre os melhores personagens de Brawl Stars para dominar cada mapa e modo de jogo.</p>
-      <p><code>React</code> <code>Vite</code> <code>Vitest</code> <code>Game data</code></p>
-      <p><a href="https://github.com/LucasLagrimante/lagri-brawl"><strong>VER PROJETO →</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>🦸 <a href="https://lucaslagrimante.github.io/marvel-rivals-coach/">Marvel Rivals Coach</a></h3>
       <p>Guias rápidos de coaching para escolher personagens e decidir a próxima luta em Marvel Rivals.</p>
       <p><code>React 19</code> <code>TypeScript</code> <code>Vite</code> <code>Game strategy</code></p>
       <p><a href="https://lucaslagrimante.github.io/marvel-rivals-coach/"><strong>ABRIR APP ↗</strong></a> · <a href="https://github.com/LucasLagrimante/marvel-rivals-coach">CÓDIGO</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>👨‍💻 <a href="https://lucaslagrimante.github.io/">Página pessoal</a></h3>
       <p>Meu espaço na web: experiência, projetos e o trabalho que estou construindo como engenheiro de software.</p>
       <p><code>Portfolio</code> <code>JavaScript</code> <code>GitHub Pages</code></p>
       <p><a href="https://lucaslagrimante.github.io/"><strong>VISITAR ↗</strong></a> · <a href="https://github.com/LucasLagrimante/lucaslagrimante.github.io">CÓDIGO</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧒 <a href="https://github.com/LucasLagrimante/aprendeplay">AprendePlay</a></h3>
-      <p>Experiência educativa multilíngue para crianças aprenderem números, letras e cores.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>i18next</code></p>
-      <p><a href="https://github.com/LucasLagrimante/aprendeplay"><strong>VER PROJETO →</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🧰 <a href="https://github.com/LucasLagrimante/agent-sync">agent-sync</a></h3>
